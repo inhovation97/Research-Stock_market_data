@@ -1,2 +1,16 @@
 # Research-Stock-market-Data
-🔍Research Stock market Data as undergraduate research student
+🔍Research Stock market Data as undergraduate research student   
+#### [안홍렬]()교수님 지도하에 교내 DSML 연구센터에서 학부연구생으로서 주가 데이터에 대한 연구를 진행.   
+#### 데이터는 [finance data 라이브러리](https://financedata.github.io/posts/finance-data-reader-users-guide.html#)를 이용함.    
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Stage 1
+> 2022.01.03 ~ 2022.01.28   
+> 교수님이 주신 과제를 수행하면서 피드백을 받고 수정함.   
+
+<진행 절차>   
+1. 서버PC를 이용하기 위한 리눅스 사용법을 익힘.   
+2. 프로그래밍적 사고에 대한 피드백을 받고 과제를 수행함   
+   -> "데이터 프레임의 사용을 최소한으로 변수명을 명확히하며 각 개체를 순차적으로 처리하는 간결하고 가독성 높은 코드를 지향"
+3. 시간 복잡도를 줄이기위한 멀티 프로세싱을 이용.   
+4. mysql을 통해 서버에 DB를 생성하여 데이터를 저장.
+5. 본격적인 연구를 위한 기본적인 modeling   
