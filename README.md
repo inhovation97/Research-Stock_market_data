@@ -17,4 +17,4 @@
 
 + sql을 이용하여 데이터베이스에 데이터를 올리는 방법을 경험.   
 + 멀티 프로세싱을 이용하여, 5분 -> 10초로 시간 복잡도를 크게 줄이는 것을 경험.   
-+ 해당 과정에서 [LSTM을 이용하여 주가 상승 여부를 예측](https://github.com/inhovation97/Research-Stock-market-Data/edit/main/stage1/2022-01-18_trying_lstm.ipynb)해보았지만 실패 -> 시계열 모델 RNN을 직접 모델링 해봄, 데이터 퀄리티로 인해 전혀 수렴이 안되는 것을 경험.
++ 해당 과정에서 [LSTM을 이용하여 주가 상승 여부를 예측](https://github.com/inhovation97/Research-Stock-market-Data/edit/main/stage1/2022-01-18_trying_lstm.ipynb)해보았지만 실패 -> 시계열 모델 RNN을 직접 모델링 해봄, 데이터 퀄리티로 인해 전혀 수렴이 안되는 것을 경험.   
