@@ -1,11 +1,12 @@
 # Research-Stock-market-Data
 🔍Research Stock market Data as undergraduate research student   
 #### [안홍렬]()교수님 지도하에 교내 DSML 연구센터에서 학부연구생으로서 주가 데이터에 대한 연구를 진행.   
-#### 데이터는 [finance data 라이브러리](https://financedata.github.io/posts/finance-data-reader-users-guide.html#)를 이용함.    
+##### 정인호, 이하늘, 김민주, 안홍렬. (2022). [_통합 종목 주가 예측을 위한 시계열 스케일러 비교._](https://drive.google.com/file/d/1M2y1nrhyQc2Ulz3_2QaNwhxR3Fg6P34E/view?usp=share_link) 한국정보과학회 학술발표논문집, 1961-1963. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 논문 게재를 목표로 연구를 진행 [[code]](https://github.com/inhovation97/Research-Stock-market-Data/tree/main/code)   
-> 2022.03 ~ 
-> 데이터 속 잡음이 너무 많아 추론의 어려움을 겪었지만, 여러 조건들을 걸어가며 얻어 낸 인사이트를 통해 연구 방향을 잡음.   
+## 2022 한국정보과학회 학술 발표회에서 포스터 발표 진행 [[Poster]](https://drive.google.com/file/d/1ECQcIRsyXVPVwUN1oYDlzZc_-JFKrXqr/view?usp=share_link)[[code]](https://github.com/inhovation97/Research-Stock-market-Data/tree/main/code)   
+> 2022.07.29    
+> 데이터 속 잡음이 너무 많아 추론이 안되는 어려움.   
+> 많은 조건들을 추가해가며 예측이 될 때까지 데이터 정제 시도.   
 
 #### 어떤 기업의 10일간의 주가 정보를 통해 다음날 종가가 상승할지 하락할지 이진 분류를 하는 모델을 연구한다.   
 ![image](https://user-images.githubusercontent.com/59557720/164187413-4b6d85fd-45fc-41fe-8150-4f94947d479a.png)
@@ -16,14 +17,15 @@
 3. [4가지 스케일링을 정의하여 비교](https://inhovation97.tistory.com/60) -> 논문의 주제로 선정   
 4. [모델링 과정에서 데이터 불균형 문제를 해소함](https://inhovation97.tistory.com/61)   
 
+#### [[code]](https://github.com/inhovation97/Research-Stock-market-Data/tree/main/code)   
 
 
 
-## Stage 1,2
+
+## <연구 초기 데이터 베이스 구축>   
 > 2022.01.03 ~ 2022.02.28   
 > 교수님이 주신 과제를 수행하면서 피드백을 받고 수정함.   
 
-<진행 절차>   
 1. 서버PC를 이용하기 위한 리눅스 사용법을 익힘.   
 2. 프로그래밍적 사고에 대한 피드백을 받고 과제를 수행함   
    -> "데이터 프레임의 사용을 최소한으로 변수명을 명확히하며 각 개체를 순차적으로 처리하는 간결하고 가독성 높은 코드를 지향"
