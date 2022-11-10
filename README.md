@@ -1,7 +1,9 @@
 # Research-Stock-market-Data
 🔍Research Stock market Data as undergraduate research student   
 #### [안홍렬]()교수님 지도하에 교내 DSML 연구센터에서 학부연구생으로서 주가 데이터에 대한 연구를 진행.   
-##### 정인호, 이하늘, 김민주, 안홍렬. (2022). [_통합 종목 주가 예측을 위한 시계열 스케일러 비교._](https://drive.google.com/file/d/1M2y1nrhyQc2Ulz3_2QaNwhxR3Fg6P34E/view?usp=share_link) 한국정보과학회 학술발표논문집, 1961-1963. 
+##### [1] 정인호, 이하늘, 김민주, 안홍렬. (2022). [_통합 종목 주가 예측을 위한 시계열 스케일러 비교._](https://drive.google.com/file/d/1M2y1nrhyQc2Ulz3_2QaNwhxR3Fg6P34E/view?usp=share_link) 한국정보과학회 학술발표논문집, 1961-1963. | 2022.05 ~ 07 
+
+##### [2] 위 연구를 기반으로 [_제1회 KRX 금융 빅데이터 활용 아이디어 경진대회_](https://m.mk.co.kr/news/stock/10457335)에 참가하여 [우수상 수상](https://drive.google.com/file/d/114Nj8cKeec77VjsbCT45Z_uWgBCUlydq/view?usp=share_link)(3,000,000원) | 2022.07 ~ 09
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 2022 한국정보과학회 학술 발표회에서 포스터 발표 진행 [[Poster]](https://drive.google.com/file/d/1ECQcIRsyXVPVwUN1oYDlzZc_-JFKrXqr/view?usp=share_link)[[code]](https://github.com/inhovation97/Research-Stock-market-Data/tree/main/code)   
 > 2022.07.29    
