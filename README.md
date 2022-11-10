@@ -19,8 +19,6 @@
 3. [4가지 스케일링을 정의하여 비교](https://inhovation97.tistory.com/60) -> 논문의 주제로 선정   
 4. [모델링 과정에서 데이터 불균형 문제를 해소함](https://inhovation97.tistory.com/61)   
 
-#### [[code]](https://github.com/inhovation97/Research-Stock-market-Data/tree/main/code)   
-
 
 
 
